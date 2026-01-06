@@ -23,6 +23,7 @@ Contributing high-quality documentation to open source projects while learning R
 | AI Associate | 0% | 35-40% |
 | Blog Posts | 0 | 10+ |
 > External PRs will appear after initial learning and repo setup; early days prioritize foundation and observation.
+
 > Metrics prioritize learning quality and external impact over raw activity counts.
 #### Note: Internal setup commits not counted as PRs.
 ---
