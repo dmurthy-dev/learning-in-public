@@ -22,7 +22,7 @@ Contributing high-quality documentation to open source projects while learning R
 | RPA Foundation | 0% | 60-70% |
 | AI Associate | 0% | 35-40% |
 | Blog Posts | 0 | 10+ |
-
+> Metrics prioritize learning quality and external impact over raw activity counts.
 #### Note: Internal setup commits not counted as PRs.
 ---
 
