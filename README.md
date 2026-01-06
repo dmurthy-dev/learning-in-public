@@ -1,7 +1,7 @@
 # Learning in Public: 60-Day Documentation Journey
 
 **Start Date:** January 7, 2026 
-**Goal:** 45-50 merged PRs to open source projects  
+**Goal:** Consistent documentation contributions / merged PRs to open source projects  
 **Focus:** Documentation, Internationalization (Hindi/Telugu), Governance
 
 ---
