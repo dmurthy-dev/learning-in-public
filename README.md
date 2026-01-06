@@ -64,7 +64,7 @@ Contributing to:
 
 ## 📝 Daily Logs
 
-- [Week 1](daily-logs/week-01/) _(starting Jan 7)_
+- [Week 1](daily-logs/week-01/) _(starting Jan 6)_
 - More coming soon...
 
 ---
