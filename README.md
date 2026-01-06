@@ -17,7 +17,7 @@ Contributing high-quality documentation to open source projects while learning R
 | Metric | Current | Target |
 |--------|---------|--------|
 | Days Completed | 1 | 60 |
-| PRs Merged(External PRs only) | 0 | 45-50 |
+| PRs Merged (External, quality-focused) | 0 | 30–40
 | Automation Starter | 0% | 100% |
 | RPA Foundation | 0% | 60-70% |
 | AI Associate | 0% | 35-40% |
