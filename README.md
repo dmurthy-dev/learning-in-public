@@ -1,6 +1,6 @@
 # Learning in Public: 60-Day Documentation Journey
 
-**Start Date:** January 7, 2026  
+**Start Date:** January 6, 2026  
 **Goal:** Consistent documentation contributions / merged PRs to open source projects  
 **Focus:** Documentation, Internationalization (Hindi/Telugu), Governance
 
@@ -16,13 +16,14 @@ Contributing high-quality documentation to open source projects while learning R
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| Days Completed | 0 | 60 |
-| PRs Merged | 0 | 45-50 |
+| Days Completed | 1 | 60 |
+| PRs Merged(External PRs only) | 0 | 45-50 |
 | Automation Starter | 0% | 100% |
 | RPA Foundation | 0% | 60-70% |
 | AI Associate | 0% | 35-40% |
 | Blog Posts | 0 | 10+ |
 
+#**Note:** “Internal setup commits not counted as PRs.”
 ---
 
 ## 🎓 Courses in Progress
