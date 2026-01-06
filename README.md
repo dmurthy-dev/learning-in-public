@@ -23,7 +23,7 @@ Contributing high-quality documentation to open source projects while learning R
 | AI Associate | 0% | 35-40% |
 | Blog Posts | 0 | 10+ |
 
-#**Note:** “Internal setup commits not counted as PRs.”
+#### Note: Internal setup commits not counted as PRs.
 ---
 
 ## 🎓 Courses in Progress
