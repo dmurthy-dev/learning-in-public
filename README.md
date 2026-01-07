@@ -31,7 +31,7 @@ Contributing high-quality documentation to open source projects while learning R
 ## 🎓 Courses in Progress
 
 ### 1. Automation Starter (5.5 hours)
-- [ ] Introduction to Automation
+- [x] Introduction to Automation
 - [ ] UiPath Studio Web
 - [ ] Agentic Automation
 - [ ] Prompt Engineering
