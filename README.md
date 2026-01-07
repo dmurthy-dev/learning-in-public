@@ -16,13 +16,15 @@ Contributing high-quality documentation to open source projects while learning R
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| Days Completed | 2 | 60 | (Day 02 in progress)
-
+| Days Completed | 2 | 60 |     
 | PRs Merged (External, quality-focused) | 0 | 30–40
 | Automation Starter | 10% | 100% |
 | RPA Foundation | 0% | 60-70% |
 | AI Associate | 0% | 35-40% |
 | Blog Posts | 0 | 10+ |
+
+Days Completed: 2 → 2 (Day 02 in progress)
+
 > External PRs will appear after initial learning and repo setup; early days prioritize foundation and observation.
 
 > Metrics prioritize learning quality and external impact over raw activity counts.
