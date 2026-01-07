@@ -12,6 +12,11 @@ Contributing high-quality documentation to open source projects while learning R
 
 ---
 
+Note: Writing clarity may be improved using AI-assisted tools. 
+All technical work, errors, logs, decisions, and learning reflections represent my own understanding and hands-on effort.
+
+---
+
 ## 📊 Progress Tracker
 
 | Metric | Current | Target |
