@@ -48,7 +48,7 @@ No successful execution was achieved on Day 02.
 - Further diagnosis was deferred to avoid speculative changes.
 
 ## Evidence
-- Raw error capture: commit `29ef310`, lines 14–20
+- Raw error capture: commit `29ef310`, lines 6–19
   > https://github.com/dmurthy-dev/learning-in-public/blob/29ef310/daily-logs/2026-01-07-day-02.md#L6-L19
 - Error screenshot: `assets/day-02/oauth-403-error.png`
   
