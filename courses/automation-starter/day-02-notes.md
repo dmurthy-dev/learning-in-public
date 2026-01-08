@@ -42,7 +42,7 @@ During lab execution, the workflow failed while provisioning Google Sheets acces
 No successful execution was achieved on Day 02.
 
 
-**Initial observations**
+## Initial observations
 - The error occurred at an external integration boundary (Google Sheets).
 - HTTP 403 suggested a permission-related failure.
 - Further diagnosis was deferred to avoid speculative changes.
