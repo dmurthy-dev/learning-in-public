@@ -1,24 +1,56 @@
-# Automation Starter — Day 02 Notes
+# Day 02 — 2026-01-07
 
-## Topics Covered
-- Introduction to automation environments
-- Lab setup overview
-- External service authentication (high level)
+**Focus:** Automation Starter lab execution (initial attempt)  
+**Time spent:** ~1.5–2 hours
 
-## Key Concepts (Beginner View)
-- Automation tools often require third-party permissions
-- OAuth failures are common during initial setup
-- Error messages are part of the workflow, not mistakes
+---
 
-## Lab Outcome
-- Lab execution attempted
-- Authentication failed due to insufficient permissions
-- Error documented for future reference
+## What I did today
+- Continued the **Automation Starter** course from UiPath Academy.
+- Attempted the first hands-on lab involving Google Sheets integration.
+- Encountered an authentication failure during the provisioning step.
+- Captured and preserved the exact error output for investigation.
 
-## What I Don’t Fully Understand Yet
-- OAuth provisioning flow in UiPath
-- Permission scopes required for Google Sheets integration
+---
 
-## Next Action
-- Revisit authentication concepts
-- Retry lab after reviewing permission setup
+## Topics covered
+- Automation environments (Studio Web overview)
+- Lab setup and execution flow
+- External service authentication (OAuth, high-level)
+
+---
+
+## Issue encountered (blocker)
+During lab execution, the workflow failed while provisioning Google Sheets access.
+
+```json
+{
+  "title": "failure.details",
+  "provider": {
+    "endpoint": "GET https://www.googleapis.com/drive/v3/about",
+    "statusCode": "403 (Forbidden)",
+    "errorMessage": "Insufficient Permission. Please provide consent during OAuth provisioning."
+  },
+  "uipath": {
+    "requestId": "3943735104410701774",
+    "statusCode": "Forbidden",
+    "errorMessage": "Failed to authenticate with Google Sheets during provisioning."
+  }
+}
+```
+> At this stage, the error appeared to indicate an OAuth permission or consent issue.
+No successful execution was achieved on Day 02.
+
+
+**Initial observations**
+- The error occurred at an external integration boundary (Google Sheets).
+- HTTP 403 suggested a permission-related failure.
+- Further diagnosis was deferred to avoid speculative changes.
+
+## Evidence
+- Raw error capture: commit `29ef310`, lines 14–20
+  > https://github.com/dmurthy-dev/learning-in-public/blob/29ef310/daily-logs/2026-01-07-day-02.md#L6-L19
+- Error screenshot: `assets/day-02/oauth-403-error.png`
+  
+### Note on resolution
+The root cause analysis and successful resolution of this issue were completed on Day 03 (2026-01-08) after additional investigation and retry.
