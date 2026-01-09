@@ -21,28 +21,31 @@ All technical work, errors, logs, decisions, and learning reflections represent 
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| Days Completed | 4 | 60 |     
-| PRs Merged (External, quality-focused) | 0 | 30–40
+| Days Logged | 4 | 60 |
+| PRs Merged (External, quality-focused) | 0 | 30–40 |
 | Automation Starter | 10% | 100% |
-| RPA Foundation | 0% | 60-70% |
-| AI Associate | 0% | 35-40% |
+| RPA Foundation | 0% | 60–70% |
+| AI Associate | 0% | 35–40% |
 | Blog Posts | 0 | 10+ |
-
-Days Completed: 2 → 2 (Day 02 in progress)
 
 > External PRs will appear after initial learning and repo setup; early days prioritize foundation and observation.
 
 > Metrics prioritize learning quality and external impact over raw activity counts.
-#### Note: Internal setup commits not counted as PRs.
+
+> Note: Internal setup commits and learning logs are not counted as PRs.
+
 ---
 
 ## 🎓 Courses in Progress
 
 ### 1. Automation Starter (5.5 hours)
-- [x] Introduction to Automation
+Progress reflects partial completion of introductory modules; hands-on labs ongoing.
+
+- ✅ Introduction to Automation
 - [ ] UiPath Studio Web
 - [ ] Agentic Automation
 - [ ] Prompt Engineering
+
 
 ### 2. RPA Developer Foundation (42 hours)
 Target: Complete 60-70% priority modules
