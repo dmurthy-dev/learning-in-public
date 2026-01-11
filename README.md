@@ -9,7 +9,7 @@
 ## 🎯 Mission
 
 Contributing high-quality documentation to open source projects while learning RPA and AI automation. Building a strong portfolio for Summer 2026 internships in DevRel/Technical Writing.
-
+>This repository prioritizes clarity, traceability, and evidence-backed learning over speed.
 ---
 
 Note: Writing clarity may be improved using AI-assisted tools. 
@@ -21,9 +21,9 @@ All technical work, errors, logs, decisions, and learning reflections represent 
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| Days Logged | 5 | 60 |
+| Days Logged | 6 | 60 |
 | PRs Merged (External, quality-focused) | 0 | 30–40 |
-| Automation Starter | 25% | 100% |
+| Automation Starter | 35% | 100% |
 | RPA Foundation | 0% | 60–70% |
 | AI Associate | 0% | 35–40% |
 | Blog Posts | 0 | 10+ |
@@ -77,7 +77,7 @@ Contributing to:
 
 ## 📝 Daily Logs
 
-- [Week 1](daily-logs/week-01/) _(starting Jan 6)_
+- [Week 1 logs](daily-logs/) _(starting Jan 6; ongoing)_
 - More coming soon...
 
 ---
@@ -92,6 +92,13 @@ Contributing to:
 
 ---
 
+## ⚠️ Constraints & Assumptions
+
+- Learning performed alongside academic coursework
+- Labs and templates may assume cloud ecosystems different from my setup
+- External PRs will be attempted only after sufficient domain understanding
+---
+
 ## 🤝 Contributing
 
 This is my personal learning journey, but feel free to:
@@ -101,4 +108,4 @@ This is my personal learning journey, but feel free to:
 
 ---
 
-Last updated: January 11, 2026
+Last updated: January 12, 2026
