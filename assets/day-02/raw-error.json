@@ -1,4 +1,3 @@
-```
 {
   "title": "failure.details",
   "provider": {
@@ -12,4 +11,3 @@
     "errorMessage": "Failed to authenticate with Google Sheets during provisioning."
   }
 }
-```
