@@ -1,0 +1,20 @@
+Timestamp:
+2026-01-11 23:33:06.462 GMT+5:30
+
+Error:
+System.InvalidOperationException: Error retrieving file. Please revise 'Get File or Folder' activity from where the file Ui_Path_Labs originated.
+Cannot download folders. Only files currently supported.
+
+Stack trace:
+at UiPath.GSuite.Drive.Models.GDriveLocalItem.ResolveAsync(Boolean force, CancellationToken ct)
+at UiPath.IntegrationService.Activities.Runtime.Services.ExecutionService.ResolveFilePathAsync(Object fileParameter)
+at UiPath.IntegrationService.Activities.Runtime.Services.ExecutionService.GenerateMultipartContentAsync(ExecutionParameters executionParameters, String multipartName, ICollection`1 jitInputs)
+at UiPath.IntegrationService.Activities.Runtime.Services.ExecutionService.SendMultipartRequestAsync(String requestUri, ExecutionParameters executionParameters, HttpMethod httpMethod, String multipartName, ICollection`1 jitInputs, CancellationToken token, Dictionary`2 telemetryUsedProperties)
+at UiPath.IntegrationService.Activities.Runtime.Services.ExecutionService.ExecuteOperationAsync(ExecutionParameters executionParameters, ConnectorActivityConfiguration activityConfiguration, Dictionary`2 telemetryUsedProperties, CancellationToken token)
+at UiPath.IntegrationService.Activities.Runtime.Activities.ConnectorActivity.ExecuteAsync(AsyncCodeActivityContext context, CancellationToken token)
+at UiPath.IntegrationService.Activities.Runtime.Activities.AsyncTaskCodeActivityImplementation.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+at UiPath.IntegrationService.Activities.Runtime.Activities.AsyncTaskCodeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+
+Additional exception:
+System.ArgumentException: Cannot download folders. Only files currently supported.
