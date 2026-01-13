@@ -1,0 +1,15 @@
+```
+{
+  "title": "failure.details",
+  "provider": {
+    "endpoint": "GET https://www.googleapis.com/drive/v3/about",
+    "statusCode": "403 (Forbidden)",
+    "errorMessage": "Insufficient Permission. Please provide consent during OAuth provisioning."
+  },
+  "uipath": {
+    "requestId": "3943735104410701774",
+    "statusCode": "Forbidden",
+    "errorMessage": "Failed to authenticate with Google Sheets during provisioning."
+  }
+}
+```
