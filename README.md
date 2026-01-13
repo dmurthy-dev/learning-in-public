@@ -15,7 +15,9 @@ Contributing high-quality documentation to open source projects while learning R
 Note: Writing clarity may be improved using AI-assisted tools. 
 All technical work, errors, logs, decisions, and learning reflections represent my own understanding and hands-on effort.
 
+
 ---
+
 
 ## 📊 Progress Tracker
 
@@ -33,6 +35,40 @@ All technical work, errors, logs, decisions, and learning reflections represent 
 > Metrics prioritize learning quality and external impact over raw activity counts.
 
 > Note: Internal setup commits and learning logs are not counted as PRs.
+
+---
+
+## 🧾 Week 01 Status (Jan 6–12, 2026)
+
+**Outcome:** Foundation established; first external contribution attempted and validated.
+
+### Highlights
+- Built a consistent daily logging system (8 consecutive days).
+- Identified and documented integration-boundary failures in RPA labs.
+- Opened first external documentation PR against a Tier-1 security repository.
+- Received maintainer confirmation that the issue was outdated and already resolved upstream.
+
+### External Contribution (Evidence)
+- Repository: 1Password/onepassword-operator
+- Issue: https://github.com/1Password/onepassword-operator/issues/206
+- PR: https://github.com/1Password/onepassword-operator/pull/234
+- Commit: d774112
+- Outcome: PR closed unmerged (issue outdated; maintainer-confirmed)
+
+**Signal:** Correct issue triage, professional maintainer interaction, and documentation judgment.
+
+---
+
+## ⚠️ Constraints & Assumptions
+- Labs and templates may assume cloud ecosystems (OneDrive / Excel Online) different from my setup (Google Workspace).
+- Some issues may be outdated due to upstream documentation changes.
+- External PRs are attempted only when scope, freshness, and impact are clear.
+
+---
+
+## 🤖 AI Assistance Disclosure
+AI tools are used to improve writing clarity and structure.
+All technical decisions, commits, error analysis, and maintainer interactions are my own and manually executed.
 
 ---
 
