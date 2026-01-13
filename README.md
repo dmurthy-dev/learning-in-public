@@ -23,7 +23,7 @@ All technical work, errors, logs, decisions, and learning reflections represent 
 
 | Metric | Current | Target |
 |--------|---------|--------|
-| Days Logged | 6 | 60 |
+| Days Logged | 8 | 60 |
 | PRs Merged (External, quality-focused) | 0 | 30–40 |
 | Automation Starter | 35% | 100% |
 | RPA Foundation | 0% | 60–70% |
