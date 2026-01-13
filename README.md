@@ -128,13 +128,6 @@ Contributing to:
 
 ---
 
-## ⚠️ Constraints & Assumptions
-
-- Learning performed alongside academic coursework
-- Labs and templates may assume cloud ecosystems different from my setup
-- External PRs will be attempted only after sufficient domain understanding
----
-
 ## 🤝 Contributing
 
 This is my personal learning journey, but feel free to:
@@ -144,4 +137,4 @@ This is my personal learning journey, but feel free to:
 
 ---
 
-Last updated: January 12, 2026
+Last updated: January 13, 2026
