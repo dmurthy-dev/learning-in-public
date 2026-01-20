@@ -26,7 +26,7 @@ All technical work, errors, logs, decisions, and learning reflections represent 
 | Days Logged | 10 | 60 |
 | PRs Merged (External, quality-focused) | 0 | 30–40 |
 | Automation Starter | 100% | 100% |
-| RPA Foundation | 0% | 60–70% |
+| RPA Foundation | 5% | 60–70% |
 | AI Associate | 0% | 35–40% |
 | Blog Posts | 0 | 10+ |
 
@@ -137,4 +137,4 @@ This is my personal learning journey, but feel free to:
 
 ---
 
-Last updated: January 18, 2026
+Last updated: January 20, 2026
