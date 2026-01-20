@@ -78,9 +78,9 @@ All technical decisions, commits, error analysis, and maintainer interactions ar
 Progress reflects partial completion of introductory modules; hands-on labs ongoing.
 
 - ✅ Introduction to Automation
-- [ ] UiPath Studio Web
-- [ ] Agentic Automation
-- [ ] Prompt Engineering
+- ✅ UiPath Studio Web
+- ✅ Agentic Automation
+- ✅ Prompt Engineering
 
 
 ### 2. RPA Developer Foundation (42 hours)
