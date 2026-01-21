@@ -84,12 +84,15 @@ Progress reflects partial completion of introductory modules; hands-on labs ongo
 
 
 ### 2. RPA Developer Foundation (42 hours)
-Target: Complete 60-70% priority modules
-- [ ] Build First Process
+Target: Complete 60–70% priority modules  
+Status: Started (platform theory + guided execution)
+
+- [~] Build First Process (in progress)
 - [ ] Variables & Arguments
 - [ ] Control Flow
 - [ ] UI Automation (HIGH PRIORITY)
 - [ ] More modules...
+
 
 ### 3. AI Associate Training (29 hours)
 Target: Complete 35-40% intro modules
@@ -112,9 +115,9 @@ Contributing to:
 ---
 
 ## 📝 Daily Logs
+- All daily logs, breaks, and execution notes are tracked under [`daily-logs/`](daily-logs/)
+- Logs are written after work is completed and are evidence-backed
 
-- [Week 1 logs](daily-logs/) _(starting Jan 6; ongoing)_
-- More coming soon...
 
 ---
 
@@ -137,4 +140,4 @@ This is my personal learning journey, but feel free to:
 
 ---
 
-Last updated: January 20, 2026
+Last updated: January 22, 2026
